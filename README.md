@@ -6,23 +6,24 @@
 
 ## 항목
 
-### 1. Machine Learning
+### 1. Machine Learning STUDY
+
+- Udemy
+- cs231n
 
 
 
-### 2. CS STUDY
+### 2. Computer Science (CS) STUDY
 
-- #### Operating System
-
-  - #### 자료 구조
-
-  - #### 컴퓨터 구조
-
-  - #### 네트워크
-
-  - #### Database
+- Operating System (OS) 운영체제
+- Data Structure 자료구조
+- Computer Network
+- Computer Architecture 컴퓨터 구조
+- Database
 
 
 
-### 3. Algorithm
+### 3. Algorithm STUDY
 
+- SW Expert Academy (SWEA)
+- Backjoon
