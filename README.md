@@ -20,6 +20,7 @@
 - Computer Network
 - Computer Architecture 컴퓨터 구조
 - Database
+- 정보처리기사
 
 
 
