@@ -10,4 +10,4 @@
 4. 파이썬 SW문제해결 기본 Stack1
 5. 파이썬 SW문제해결 기본 Stack2
 6. 파이썬 SW문제해결 기본 Queue
-
+7. 파이썬 SW문제해결 기본 Linked List
