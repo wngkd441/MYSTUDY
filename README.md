@@ -1,6 +1,6 @@
-# MY STUDY
+# Hans' TIL
 
-공부한 내용을 정리하는 Repository입니다.
+### 공부한 내용을 정리하는 Repository입니다.
 
 
 
